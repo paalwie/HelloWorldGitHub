@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("ddddsdgghkgfhdsfygjtfthjfhfhd wdfhgjddorld!");
+        System.out.println("Patrick stinkt nach Erdbeeren");
     }
 }
